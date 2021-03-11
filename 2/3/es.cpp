@@ -1,0 +1,24 @@
+#include <iostream>
+
+using namespace std;
+
+int main(){
+	
+	int a;
+	
+	cout << "Inserisci un numero: ";
+	cin >> a;
+	
+	/*
+	if(a<0)
+		cout << -a;
+	else
+		cout << a;
+	*/
+	
+	cout << ((a<0) ? -a : a);
+		
+	cout << endl;
+
+	return 0;
+}
