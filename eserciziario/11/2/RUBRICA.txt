@@ -1,8 +1,0 @@
-ultimo zelemento 0
-simone dagnino 1
-martina dagnino 2
-letizia pastorino 3
-simone amen 5
-toplino topolina 4
-primo aaelemento 6
-STOP
